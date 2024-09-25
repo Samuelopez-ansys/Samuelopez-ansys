@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I+am+Dipin.;&center=true&size=30&color=4C1DBF&width=435">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I+am+Samuel;&center=true&size=30&color=4C1DBF&width=435">
   </a>
 </h1>
 
@@ -16,12 +16,6 @@
 [<img align="left" alt="samuel email | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][mail]
 [<img align="left" alt="samuelopez5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-  
-## :man_technologist: Software languages
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-</div>
 
 ## :hammer_and_wrench: Software tools
 
@@ -33,6 +27,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
    </div>
+
+## :man_technologist: Software languages
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
 
 <!--  
 ## GitHub statistics
