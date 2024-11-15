@@ -1,5 +1,4 @@
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSamuelopez-ansys&labelColor=%2337d67a&countColor=%23555555)
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSamuelopez-ansys&labelColor=%2337d67a&countColor=%23555555">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
