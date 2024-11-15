@@ -2,16 +2,21 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I+am+Samuel;&center=true&size=30&color=4C1DBF&width=435">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I+am+Samuel+Lopez;&center=true&size=30&color=4C1DBF&width=435">
   </a>
 </h1>
 
-## About me
-- 🧑🏽‍💻 Ansys Application Engineer 📡
-- 🎓 M.S in Telecommunication Engineering, University of Alcala
-- ⚡ Fun fact: I support FC Barcelona ⚽ and I love running 🏃‍♂️.
+## About me 👋
 
-### Connect with me:
+My name is [**Samuel Lopez Ruiz**](https://www.linkedin.com/in/samuelopez5/), a high-frequency engineer with a MSc. in Telecommunication Engineering by the [UAH](https://www.uah.es/en/) and experience in the space sector (radio-astronomy, space passive devices), computational electromagnectics and simulations. I currently work as an Application Engineer for [Ansys](https://www.ansys.com/). Python-related, I am working with the [Ansys GitHub organization](https://github.com/ansys) and the [PyAnsys ecosystem](https://docs.pyansys.com/), where I contribute to multiple open-source projects! Looking forward to talking to you all!
+
+## :astronaut: My resume
+
+* You can access my short-version resume, in the following GH page!
+* You can also access my personal web portfolio, in the following GH page!
+
+## :handshake: Connect with me!
+
 [<img align="left" alt="samuel email | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][mail]
 [<img align="left" alt="samuelopez5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
