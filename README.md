@@ -10,7 +10,9 @@
 
 My name is [**Samuel Lopez Ruiz**](https://www.linkedin.com/in/samuelopez5/), a high-frequency engineer with a MSc. in Telecommunication Engineering by the [UAH](https://www.uah.es/en/) and experience in the space sector (radio-astronomy, space passive devices), computational electromagnectics and simulations. 
 
-I currently work as an Application Engineer for [Ansys](https://www.ansys.com/). Python-related, I am working with the [Ansys GitHub organization](https://github.com/ansys) and the [PyAnsys ecosystem](https://docs.pyansys.com/), where I contribute to multiple open-source projects! Looking forward to talking to you all!
+I currently work as an Application Engineer for [Ansys](https://www.ansys.com/). Python-related, I am the owner and maintainer of [PyAEDT](https://github.com/pyansys/PyAEDT). I am working with the [Ansys GitHub organization](https://github.com/ansys) and the [PyAnsys ecosystem](https://docs.pyansys.com/), where I contribute to multiple open-source projects!
+
+Looking forward to talking to you all!
 
 ## :astronaut: My resume
 
