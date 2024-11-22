@@ -49,10 +49,10 @@ Looking forward to talking to you all!
 
 ## ⚡ GitHub statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Samuelopez-ansys/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Samuelopez-ansys" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Samuelopez-ansys/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelopez-ansys" />
 </a>
 
