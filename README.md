@@ -27,12 +27,6 @@ Looking forward to talking to you all!
 
 ## :hammer_and_wrench: Software tools
 
-<div>
-  
-  
-   </div>
-## :hammer_and_wrench: Software tools
-
 <div align=center>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm Community Edition" alt="PyCharm Community Edition" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
@@ -53,17 +47,14 @@ Looking forward to talking to you all!
   <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" title="LabVIEW"  alt="LabVIEW" width="40" height="40"/>&nbsp;
 </div>
 
+## ⚡ GitHub statistics
 
-<!--  
-## GitHub statistics
----
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Samuelopez-ansys" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelopez-ansys" />
 </a>
--->
 
 
 [mail]: mailto:samuelopez5@hotmail.com
