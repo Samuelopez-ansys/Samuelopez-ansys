@@ -50,7 +50,8 @@ Looking forward to talking to you all!
 
 <div align=center>
   <div align=center>
-      <img width=47.0% src="https://github-readme-stats.vercel.app/api?username=samuelopez-ansys&show_icons=true>
+      <img width=47.0% src="https://github-readme-stats.vercel.app/api?username=samuelopez-ansys&show_icons=true"/>
+  </div>
 </div>
 
 [mail]: mailto:samuelopez5@hotmail.com
