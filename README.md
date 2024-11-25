@@ -48,6 +48,10 @@ Looking forward to talking to you all!
 
 ## ⚡ GitHub statistics
 
+<div align=center>
+  <div align=center>
+      <img width=47.0% src="https://github-readme-stats.vercel.app/api?username=samuelopez-ansys&show_icons=true>
+</div>
 
 [mail]: mailto:samuelopez5@hotmail.com
 [linkedin]: https://linkedin.com/in/samuelopez5
