@@ -48,9 +48,8 @@ Looking forward to talking to you all!
 ## ⚡ GitHub statistics
 
 <div align=center>
-  <div align=center>
+  <div>
       <img width=47.0% src="https://github-readme-stats.vercel.app/api?username=samuelopez-ansys&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
-      <img width=49.9% src="https://streak-stats.demolab.com/?user=Samuelopez-ansys&theme=react&border_color=61dafb&hide_border=true"/>
     </div>
   <div>
       <img width=49.9% src="https://github-readme-activity-graph.vercel.app/graph?username=samuelopez-ansys&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true"/>
