@@ -51,8 +51,9 @@ Looking forward to talking to you all!
 <div align=center>
   <div align=center>
       <img width=47.0% src="https://github-readme-stats.vercel.app/api?username=samuelopez-ansys&show_icons=true"/>
-      <img width=47.0% src="[https://github-readme-stats.vercel.app/api?username=samuelopez-ansys&show_icons=true](https://github-readme-activity-graph.vercel.app/graph?username=samuelopez-ansys&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true)"/>
-    
+  </div>
+  <div>
+      <img width=47.0% src="https://github-readme-activity-graph.vercel.app/graph?username=samuelopez-ansys&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true"/>
   </div>
 </div>
 
