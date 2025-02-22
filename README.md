@@ -16,7 +16,7 @@ Looking forward to talking to you all!
 
 ## :astronaut: My resume
 
-* You can access my short-version resume, in the following GH page! :arrow_right: [Samuel's short resume](https://samuelopez-ansys.github.io/short-cv/SAMUEL-LOPEZ.pdf)
+* You can access my short-version resume, in the following GH page! :arrow_right: [Samuel's short resume](https://github.com/Samuelopez-ansys/short-cv/blob/gh-pages/SAMUEL-LOPEZ.pdf)
 
 ## :handshake: Connect with me!
 
